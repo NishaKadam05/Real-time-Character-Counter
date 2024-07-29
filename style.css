@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.section{
+    width: 40%;
+    background-color: rgb(250, 156, 156);
+    border: 1px solid rgb(250, 156, 156);
+    border-top: 10px solid rgb(234, 63, 63);
+    border-bottom: 10px solid rgb(234, 63, 63);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px;
+    padding: 40px;
+    margin-top: 150px;
+    margin-left: 400px;
+}
+
+.container{
+    margin: 10px;
+}
+
+.row{
+    margin: 20px;
+}
+
